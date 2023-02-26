@@ -1,0 +1,15 @@
+E:\GB\choosing a specialization\test\z\obj\Debug\net6.0\z.csproj.AssemblyReference.cache
+E:\GB\choosing a specialization\test\z\obj\Debug\net6.0\z.GeneratedMSBuildEditorConfig.editorconfig
+E:\GB\choosing a specialization\test\z\obj\Debug\net6.0\z.AssemblyInfoInputs.cache
+E:\GB\choosing a specialization\test\z\obj\Debug\net6.0\z.AssemblyInfo.cs
+E:\GB\choosing a specialization\test\z\obj\Debug\net6.0\z.csproj.CoreCompileInputs.cache
+E:\GB\choosing a specialization\test\z\bin\Debug\net6.0\z.exe
+E:\GB\choosing a specialization\test\z\bin\Debug\net6.0\z.deps.json
+E:\GB\choosing a specialization\test\z\bin\Debug\net6.0\z.runtimeconfig.json
+E:\GB\choosing a specialization\test\z\bin\Debug\net6.0\z.dll
+E:\GB\choosing a specialization\test\z\bin\Debug\net6.0\z.pdb
+E:\GB\choosing a specialization\test\z\obj\Debug\net6.0\z.dll
+E:\GB\choosing a specialization\test\z\obj\Debug\net6.0\refint\z.dll
+E:\GB\choosing a specialization\test\z\obj\Debug\net6.0\z.pdb
+E:\GB\choosing a specialization\test\z\obj\Debug\net6.0\z.genruntimeconfig.cache
+E:\GB\choosing a specialization\test\z\obj\Debug\net6.0\ref\z.dll
